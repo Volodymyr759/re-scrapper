@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\REScraper\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\User\source\repos\REScraper\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\User\source\repos\REScraper\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\REScraper\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\User\source\repos\REScraper\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\User\source\repos\REScraper\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
